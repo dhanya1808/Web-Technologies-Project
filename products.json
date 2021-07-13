@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Chocolate Cake",
+        "price": 650,
+        "image": { "fields": { "file": { "url": "images/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Red Velvet Cake",
+        "price": 950,
+        "image": { "fields": { "file": { "url": "images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Vanilla Cream Cake",
+        "price": 750,
+        "image": { "fields": { "file": { "url": "images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Devil's Food Cake",
+        "price": 1200,
+        "image": { "fields": { "file": { "url": "images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Cheesecake",
+        "price": 1000,
+        "image": { "fields": { "file": { "url": "images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Peanut Butter Cake",
+        "price": 850,
+        "image": { "fields": { "file": { "url": "images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Chocolate Cupcake",
+        "price": 360,
+        "image": { "fields": { "file": { "url": "images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Red Velvet Cupcake",
+        "price": 500,
+        "image": { "fields": { "file": { "url": "images/product-8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Oreo Cupcake",
+        "price": 500,
+        "image": { "fields": { "file": { "url": "images/product-9.jpg" } } }
+      }
+    }
+  ]
+}
