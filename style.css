@@ -431,6 +431,7 @@ p{
     visibility: hidden;
 }
 .pay-btn{
+    width:100%;
     display: block;
     margin: 0 auto;
     background: linear-gradient(to right , #cc0000, #ff0000, #ff6666);
