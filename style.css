@@ -433,10 +433,10 @@ p{
 .pay-btn{
     display: block;
     margin: 0 auto;
-    background: linear-gradient(to right , #cc0000, #ff0000);
+    background: linear-gradient(to right , #cc0000, #ff0000, #ff6666);
 }
 .clear-cart{
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
 }
 
 /* --------------- End of Cart ---------------- */
